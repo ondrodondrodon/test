@@ -1,0 +1,9 @@
+{
+	"engine_configuration_version": "3.7.12-0-canvas",
+	"engine_urls": [
+		"https://ak.cdn.nimg.jp/coe/contents/engines/akashic-runtime/3.7.12-0-canvas/engineFilesV3_7_12.js",
+		"https://ak.cdn.nimg.jp/coe/contents/engines/akashic-runtime/3.7.12-0-canvas/playlogClientV7_2_1.js"
+	],
+	"content_url": "https://akashic-games.github.io/demo/content/templates/tsurikkuma-style-game/game.json",
+	"external": ["send"]
+}
